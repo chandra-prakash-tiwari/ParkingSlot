@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TV7JYjL4JaP+H2QVojF0DKlgSHMsksJ+GPMPna1wq/yxlioXJIS2JQ+J0OwiOT9kBwwW51LkShci0i/PLOUlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\SharePoint\\ParkingSlot\\ParkingSlot\\ParkingSlot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

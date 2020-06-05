@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.exe
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.deps.json
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.runtimeconfig.json
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.runtimeconfig.dev.json
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.dll
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\bin\Debug\netcoreapp3.1\ParkingSlot.pdb
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.AssemblyInfo.cs
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.dll
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.pdb
+C:\Users\user\Desktop\SharePoint\ParkingSlot\ParkingSlot\obj\Debug\netcoreapp3.1\ParkingSlot.genruntimeconfig.cache
